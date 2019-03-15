@@ -1,4 +1,4 @@
-# Structure Interpretation Computer Programs
+# Structure and Interpretation of Computer Programs
 
-Recommended by [Jason Benn](https://github.com/JasonBenn)
-Part 1 of 9 core Computer Science subjects. @ [Teach Yourself CS ](https://teachyourselfcs.com/).
+Recommended by [Jason Benn](https://github.com/JasonBenn).
+Part 1 of 9 core Computer Science subjects. @[Teach Yourself CS ](https://teachyourselfcs.com/).
